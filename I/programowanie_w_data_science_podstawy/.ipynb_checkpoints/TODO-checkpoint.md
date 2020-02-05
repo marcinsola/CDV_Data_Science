@@ -5,7 +5,3 @@ Matrix project:
 - Make sure that the given matrix has a dimension of maximum 3 by 3 (or implement logic for higher dimensions)
 - Encapsulate logic in smaller, more precise methods
 - Test inplace feature
-
-Vector2D project:
-- Implement inplace feature
-- Implement vector product
